@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://47.93.82.79/cydia/i4/caipiao.ipa</string>
+						<string>http://127.0.0.1:12345/caipiao.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -39,9 +39,9 @@
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
-					<string>�ò�Ʊ</string>
+					<string>好彩票</string>
 					<key>title</key>
-					<string>�ò�Ʊ</string>
+					<string>好彩票</string>
 				</dict>
 			</dict>
 		</array>
